@@ -1,6 +1,6 @@
-# factorial.py 
+# factorial.py
 
-import time 
+import time
 final_list = []
 def factorial(n):
     time.sleep(.1)

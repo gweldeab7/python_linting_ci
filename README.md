@@ -1,1 +1,1 @@
-"# python_linting_ci" 
+"# python_linting_ci"
