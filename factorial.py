@@ -11,6 +11,7 @@ def factorial(n):
     return factorial
 
 def sum_factorial():
+    """Compute the sum of factorials from 0! to 49!."""
     final_list.clear()  # Clear the list before use
     for i in range(50):
         final_list.append(factorial(i))
