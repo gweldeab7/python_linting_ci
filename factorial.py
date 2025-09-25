@@ -3,6 +3,7 @@
 import time
 final_list = []
 def factorial(n):
+    """Compute factorial of n (n!)."""
     time.sleep(.1)
     factorial = 1
     for i in range(1, n + 1):
