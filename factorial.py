@@ -1,5 +1,5 @@
 # factorial.py
-
+"""Module to compute factorials and their sum."""
 import time
 final_list = []
 def factorial(n):
